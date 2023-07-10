@@ -1,14 +1,12 @@
-import logo from './logo.svg';
-import './App.css';
-import First from './components/header/headerComponent'
-
-
+import First from "./components/header/headerComponent";
+import Imagepart from './components/firstImage/firstImageComponent'
 
 function App() {
   return (
-    <First></First>
-  
-  
+    <div>
+      <First />
+      <Imagepart/> 
+    </div>
   );
 }
 

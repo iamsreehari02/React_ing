@@ -1,0 +1,57 @@
+.header{
+  max-width:1200px;
+  height: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+.left_inside_header{
+  width: 177px;
+  height: 50px;
+  display: flex;
+}
+.logo{
+ 
+  width: 33px;
+  height: 34px;
+  margin: auto;
+
+}
+.interno{
+  
+  width: 177px; 
+  height: 50px;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+
+}
+
+.right_inside_header{
+
+  margin-top: auto;
+  margin-bottom: auto;
+  width: 624px;
+  height:25px;
+  display: flex;
+  
+  
+
+}
+.non_logo_part{
+  
+  width: 572px;
+  height: 25px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo_part{
+
+  width: 49px;
+  height: 24px;
+  display: flex;
+  justify-content: right;
+}

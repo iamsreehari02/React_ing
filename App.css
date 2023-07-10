@@ -1,0 +1,11 @@
+.project_plans{
+    max-width:1158px;
+    height: 225px;
+    margin-top: 200px;
+    margin-left:auto;
+    margin-right:auto;
+    display: flex;
+    gap:40px;
+    border: 1px solid black;
+
+}

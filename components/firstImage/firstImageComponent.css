@@ -13,7 +13,7 @@
     
     width: 434px;
     height: 342px;
-    margin-top: 218px;
+    margin-top: 160px;
     margin-left: 22px;
     
     
@@ -31,12 +31,14 @@
     
     width: 434px;
     height: 162px;
+    font-size:26px;
 
 }
 .para_part{
     
     width: 433px;
     height: 66px;
+    font-size:20px;
 
 }
 .button_para_1{

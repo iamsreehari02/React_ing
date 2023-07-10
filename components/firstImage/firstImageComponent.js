@@ -1,5 +1,5 @@
 import './firstImageComponent.css'
-// import mainImg from '../../assets/Images.svg'
+import arrow from '../../assets/Vector (1).svg'
 
 function Image(){
     return(
@@ -16,7 +16,7 @@ function Image(){
                 </div>
                 <div className='button_para_1'>
                     Get Started
-                    
+                    <img src={arrow} alt='arrow'/>
                 </div>
             </div>
         </div>

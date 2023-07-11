@@ -1,0 +1,41 @@
+.font_and_image{
+    max-width: 1200px;
+    height: 700px;
+    margin-top: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+    display: flex;
+    
+
+}
+.left_portion{
+    width: 472px;
+    height: 614px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.head_and_para{
+    width: 472px;
+    height: 354px;
+}
+.head_portion{
+    display: flex;
+    align-items: center;
+    width: 420px;
+    height: 189px;
+    font-size: 21px;
+
+}
+.para_portion{
+    width: 472px;
+    height: 132px;
+    font-size: 19px;
+
+}
+.right_portion{
+    width: 653.0000610351562px;
+    height: 700px;
+    margin-left: auto;
+
+}
